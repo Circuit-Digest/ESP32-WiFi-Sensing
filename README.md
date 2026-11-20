@@ -151,9 +151,9 @@ const uint32_t CAL_MS = 15000;
 ## Project Structure
 
 ```text
-WiFi-Motion-Detection/
+ESP32-WiFi-Sensing/
 │
-├── WiFi_Motion_Detection.ino
+├── ESP32-WiFi-Sensing.ino
 │
 ├── webpage.h
 │
